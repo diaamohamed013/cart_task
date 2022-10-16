@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Montserrat+Alternates:wght@400;500;600&family=Montserrat:wght@400;500;600;700&family=Newsreader:opsz@6..72&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@300;400;500;700;900&display=swap");
+
+$primary-color: #131111;
+$secondary-color: #ada4a4;
+$bg-body: #ceaeae;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  body {
+    background-color: $bg-body !important;
+    font-family: "Cairo", sans-serif;
+    a {
+      text-decoration: none;
+      display: block;
+      color: $primary-color;
+    }
+    h3 {
+      color: $primary-color;
+    }
+    p {
+      color: $secondary-color;
+    }
+    .loader {
+  position: absolute;
+  top: calc(50% - 4em);
+  left: calc(50% - 4em);
+  width: 6em;
+  height: 6em;
+  border: 1.1em solid rgba(0, 0, 0, 0.2);
+  border-left: 1.1em solid #000000;
+  border-radius: 50%;
+  transition: opacity 0.2s;
+  -webkit-transition: opacity 0.2s;
+  -moz-transition: opacity 0.2s;
+  -ms-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;
+  animation: load8 1s infinite linear;
+  -webkit-animation: load8 1s infinite linear;
+}
+
+.loader--hide {
+  opacity: 0;
+}
+
+@keyframes load8 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+  }
+}
+
