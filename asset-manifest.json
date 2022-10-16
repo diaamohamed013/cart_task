@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/cart_task/static/css/main.6758c064.css",
+    "main.js": "/cart_task/static/js/main.79ef9fd1.js",
+    "static/js/787.e25bee6a.chunk.js": "/cart_task/static/js/787.e25bee6a.chunk.js",
+    "static/media/jupe.jpg": "/cart_task/static/media/jupe.1657721db40e466549fa.jpg",
+    "static/media/fa-solid-900.ttf": "/cart_task/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/cart_task/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/cart_task/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/cap.jpg": "/cart_task/static/media/cap.95addf4d277c93247750.jpg",
+    "static/media/fa-brands-400.woff2": "/cart_task/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/shoes3.jpg": "/cart_task/static/media/shoes3.caaf8ea564613a733005.jpg",
+    "static/media/shoes6.jpg": "/cart_task/static/media/shoes6.c5aa54b569daeb3083e5.jpg",
+    "static/media/short.jpg": "/cart_task/static/media/short.a95d11e8bd21d1e21cd0.jpg",
+    "static/media/shoes4.jpg": "/cart_task/static/media/shoes4.2c91e6fad2ce15639ff1.jpg",
+    "static/media/shoes1.jpg": "/cart_task/static/media/shoes1.3fd6225b35ec7bfb1dd6.jpg",
+    "static/media/shoes2.jpg": "/cart_task/static/media/shoes2.cfc52620abf0757be9f6.jpg",
+    "static/media/fa-regular-400.ttf": "/cart_task/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/shoes5.jpg": "/cart_task/static/media/shoes5.d614dd2250a55398fe0a.jpg",
+    "static/media/fa-regular-400.woff2": "/cart_task/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/cart_task/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/cart_task/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/cart_task/index.html",
+    "main.6758c064.css.map": "/cart_task/static/css/main.6758c064.css.map",
+    "main.79ef9fd1.js.map": "/cart_task/static/js/main.79ef9fd1.js.map",
+    "787.e25bee6a.chunk.js.map": "/cart_task/static/js/787.e25bee6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6758c064.css",
+    "static/js/main.79ef9fd1.js"
+  ]
+}
